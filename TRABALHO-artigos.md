@@ -9,7 +9,7 @@ Traga aqui um histórico do CSS3, pra que serve, etc, etc, etc
 Traga aqui um histórico de Atomic Design, pra que serve, vantagens, etc, etc
 
 ### Tarefa
-Inicialmente vale lembrar que um Artigo de Revisão, não é um artigo científico. Um artigo de revisão, também conhecido como Review, é uma publicação que descreve, analisa ou discute conhecimentos científicos ou tecnológicos já publicados. Este artigo de revisão terá o formado de um HowTo, ou seja, não será necessário apresentar referenciação bilbiofráfica nos parágrafos de conceitos e sim constar a referência ao final de cada funcionalidade.
+Inicialmente vale lembrar que um Artigo de Revisão, não é um artigo científico. Um artigo de revisão, também conhecido como Review, é uma publicação que descreve, analisa ou discute conhecimentos científicos ou tecnológicos já publicados. O artigo de revisão de CSS3 terá o formado de um HowTo, ou seja, não será necessário apresentar referenciação bilbiofráfica nos parágrafos de conceitos e sim constar a referência ao final de cada funcionalidade. Por sua vez o artigo de revisão de Atomic Design terá um formato de artigo de revisão resumido.
 
 1) Cada aluno deverá confeccionar 2 artigos de revisão, um sobre CSS3 e outro sobre Atomic Design;</br>
 2) Postar esses artigos no GitHub como Gitpages em formato MD;
@@ -32,7 +32,14 @@ Seu artigo de revisão deverá abordar 10 funcionalidades de CSS3 que mais usa, 
 - Referência de onde extraiu o conteúdo apresentado.
 
 #### Tarefa do artigo de Atomic Design
-
+O artigo de revisão de Atomic Design deverá ser constituído das seguintes partes:
+- Resumo 
+- 1) O que é ?
+- 2) Como funciona 
+- 3) Por que usá-lo, quais seus benefícios 
+- 4) Onde usá-lo (10%)
+- 5) Exemplos em cada etapa (Apresentar um exemplo de cada etapa)
+- Referências
 
 ### Processo
 
@@ -43,16 +50,23 @@ Seu artigo de revisão deverá abordar 10 funcionalidades de CSS3 que mais usa, 
 3) Envie email para (<b>jnascimento@gmail.com</b>) com as urls de ambos seus artigos. Mas cuidado, o titulo do email deve ser: <b>[WebMob Unoesc Chapecó] Artigos</b></br>
 
 ### Avaliação
-Cada um dos artigos terá peso 10.
+Cada um dos artigos terá peso 10, contudo cada artigo é avaliado de forma diferente. Veja:
 
 #### Artigo de CSS3
-Do artigo de CSS3 a nota será proferida da seguinte forma:
-- Cada funcionalidade apresentada poderá valer no máximo 1 ponto, assim constituído: 
+No artigo de CSS3 o acadêmico(a) deverá apresentar até 10 funcionalidades, sendo que cada funcionalidade apresentada porderá valer até 1 ponto. Ao final será somado a avaliação de todas as funcionalidades e obtida a nota. Cada funcionalidade será avaliada da forma:
 - O que é? (20%)
 - Onde usar: (10%)
 - Como usar: (20%)
 - Exemplo de uso: (50%)
 
+#### Artigo de Atomic Design
+No artigo de Atomic Design a nota será proferida da seguinte forma:
+- Resumo (5%)
+- O que é? (15%)
+- Como funciona? (10%)
+- Para que usar (10%)
+- Onde usar? (10%)
+- Exemplo de cada etapa. (10%. Como são 5 etapas, 5*10%=50%)
 
 ### Exemplo Artigo de CSS3
 ------ INICIO do artigo ------ 
@@ -93,6 +107,24 @@ seletor {
 
 ------ FIM do artigo ------
 
+### Exemplo Artigo de Atomic Design
+------ INICIO do artigo ------ 
 ## Atomic Design
-
+Jean Carlos Hennrichs (Unoesc Chapecó)</br>
+{jean.hennrichs@unoesc.edu.br}
+#####Resumo:
+Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla. 
+#####1) O que é?
+Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla. 
+#####2) Como funciona
+Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla. 
+#####3) Para que usar
+Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla. 
+#####4) Onde usar?
+Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla. 
+#####5) Exemplos:
+Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla. 
+#####6) Referências
+[http://tableless.com.br/o-que-e-design-atomic/](http://tableless.com.br/o-que-e-design-atomic/)</br>
+[http://pt.slideshare.net/bradfrostweb/atomic-design](http://pt.slideshare.net/bradfrostweb/atomic-design)
 
