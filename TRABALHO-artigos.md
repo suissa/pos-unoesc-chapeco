@@ -1,11 +1,10 @@
 
 # Trabalho confecção de Artigos de Revisão
 
-### Introdução
-Traga aqui um histórico do CSS3, pra que serve, etc, etc, etc
-Traga aqui um histórico de Atomic Design, pra que serve, vantagens, etc, etc
+## Introdução
+O desenvolvimento web cresceu assustadoramente nos últimos anos. A formatação do visual do site que no início era feito em HTML puro, com o surgimento do CSS tornou-se mais prático e eficiente. Como tudo evolui, com o CSS não foi diferente. Atualmente a versão mais atual dele é o CSS3. Entretando várias outras tecnologias surgiram e vem surgindo para auxiliar o processo de criação de websites, o Atomic Design é uma dessas inovações. Atomic Design é uma metodologia para construção de componentes visuais para sistemas web. A partir destas duas tecnologias é que se dará o este trabalho.
 
-### Tarefa
+## Tarefas
 Inicialmente vale lembrar que um Artigo de Revisão, não é um artigo científico. Um artigo de revisão, também conhecido como Review, é uma publicação que descreve, analisa ou discute conhecimentos científicos ou tecnológicos já publicados. O artigo de revisão de CSS3 terá o formado de um HowTo, ou seja, não será necessário apresentar referenciação bilbiofráfica nos parágrafos de conceitos e sim constar a referência ao final de cada funcionalidade. Por sua vez o artigo de revisão de Atomic Design terá um formato de artigo de revisão resumido.
 
 1) Cada aluno deverá confeccionar 2 artigos de revisão, um sobre CSS3 e outro sobre Atomic Design;</br>
@@ -38,15 +37,15 @@ O artigo de revisão de Atomic Design deverá ser constituído das seguintes par
 - 5) Exemplos em cada etapa (Apresentar um exemplo de cada etapa)
 - Referências
 
-### Processo
-
+## Processo
 1) Confeccione no Github em MD, seu artigo de revisão sobre o CSS3 conforme solicitado na Tarefa;</br>
 1.1) Salve seu artigo de CSS3 com o nome: <b>artigo-css3.md</b> </br>
 2) Confeccione seu artigo de revisão sobre o Atomic Design conforme solicitado na Tarefa;</br>
 2.1) Salve seu artigo de Atomic Design com o nome: <b>artigo-atomic-design.md</b> </br>
 3) Envie email para (<b>jnascimento@gmail.com</b>) com as urls de ambos seus artigos. Mas cuidado, o titulo do email deve ser: <b>[WebMob Unoesc Chapecó] Artigos</b></br>
+4) Para auxiliá-lo na formatação de suas GitPages, consulte [https://help.github.com/articles/markdown-basics/](https://help.github.com/articles/markdown-basics/). Ali encontrará as principais tags para formatação de GitPages em formato MD.
 
-### Avaliação
+## Avaliação
 Cada um dos artigos terá peso 10, contudo cada artigo é avaliado de forma diferente. Veja:
 
 #### Artigo de CSS3
@@ -68,24 +67,24 @@ No artigo de Atomic Design a nota será proferida da seguinte forma:
 </br></br></br></br>
 ### Exemplo Artigo de CSS3
 ------ INICIO do artigo ------ 
-### Unoesc Chapecó
-### Pós-graduação em Desenvolvimento Web, Cloud e dispositivos móveis - WebMob
-### Disciplina: HTML5+CSS3
-### Professor: Jean Carlo Nascimento
-### Acadêmico(a): Bla Bla Bla Bla</br>
-## Artigo de revisão de CSS3</br>
-### Funcionalidade: border-radius
-### O que é?
+#### Unoesc Chapecó
+#### Pós-graduação em Desenvolvimento Web, Cloud e dispositivos móveis - WebMob
+#### Disciplina: HTML5+CSS3
+#### Professor: Jean Carlo Nascimento
+#### Acadêmico(a): Bla Bla Bla Bla
+### Artigo de revisão de CSS3
+##### Funcionalidade: border-radius
+##### O que é?
 A propriedade CSS3 border-radius destina-se a definir bordas arredondadas. O arredondamento das bordas é feito com declaração de dois valores CSS de medida; o primeiro define o eixo horizontal (rx) de 1/4 de uma elipse e o segundo o eixo vertical (ry). O quarto de elipse assim definida é convenientemente inserida no canto vivo do box arredondando-o. O diagrama a seguir esclarece o esquema de arredondamento.
-### Onde usar:
+##### Onde usar:
 Em qualquer elemento que possui o atributo border.
-### Como usar:
+##### Como usar:
 ```css
 seletor {border-radius:
 [ <length> | <percentage> ]{1,4} [ / [ <length> | <percentage> ]{1,4} ]?);
 }
 ```
-### Exemplo de uso
+##### Exemplo de uso
 A sintaxe geral para aplicar borda arredondada é mostrada a seguir.
 
 ```css
