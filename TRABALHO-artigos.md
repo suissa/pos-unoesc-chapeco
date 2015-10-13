@@ -4,6 +4,7 @@
 ## Introdução
 O desenvolvimento web cresceu assustadoramente nos últimos anos. A formatação do visual do site que no início era feito em HTML puro, com o surgimento do CSS tornou-se mais prático e eficiente. Como tudo evolui, com o CSS não foi diferente. Atualmente a versão mais atual dele é o CSS3. Entretando várias outras tecnologias surgiram e vem surgindo para auxiliar o processo de criação de websites, o Atomic Design é uma dessas inovações. Atomic Design é uma metodologia para construção de componentes visuais para sistemas web. A partir destas duas tecnologias é que se dará o este trabalho.
 
+</br></br>
 ## Tarefas
 Inicialmente vale lembrar que um Artigo de Revisão, não é um artigo científico. Um artigo de revisão, também conhecido como Review, é uma publicação que descreve, analisa ou discute conhecimentos científicos ou tecnológicos já publicados. O artigo de revisão de CSS3 terá o formado de um HowTo, ou seja, não será necessário apresentar referenciação bilbiofráfica nos parágrafos de conceitos e sim constar a referência ao final de cada funcionalidade. Por sua vez o artigo de revisão de Atomic Design terá um formato de artigo de revisão resumido.
 
@@ -27,6 +28,7 @@ Seu artigo de revisão deverá abordar 10 funcionalidades de CSS3 que mais usa, 
 - Apresentar um exemplo de uso dessa funcionalidade.
 - Referência de onde extraiu o conteúdo apresentado.
 
+</br>
 #### Tarefa do artigo de Atomic Design
 O artigo de revisão de Atomic Design deverá ser constituído das seguintes partes:
 - Resumo 
@@ -37,14 +39,16 @@ O artigo de revisão de Atomic Design deverá ser constituído das seguintes par
 - 5) Exemplos em cada etapa (Apresentar um exemplo de cada etapa)
 - Referências
 
+</br></br>
 ## Processo
 1) Confeccione no Github em MD, seu artigo de revisão sobre o CSS3 conforme solicitado na Tarefa;</br>
 1.1) Salve seu artigo de CSS3 com o nome: <b>artigo-css3.md</b> </br>
 2) Confeccione seu artigo de revisão sobre o Atomic Design conforme solicitado na Tarefa;</br>
 2.1) Salve seu artigo de Atomic Design com o nome: <b>artigo-atomic-design.md</b> </br>
 3) Envie email para (<b>jnascimento@gmail.com</b>) com as urls de ambos seus artigos. Mas cuidado, o titulo do email deve ser: <b>[WebMob Unoesc Chapecó] Artigos</b></br>
-4) Para auxiliá-lo na formatação de suas GitPages, consulte [https://help.github.com/articles/markdown-basics/](https://help.github.com/articles/markdown-basics/). Ali encontrará as principais tags para formatação de GitPages em formato MD.
+4) Para auxiliá-lo na formatação de suas GitPages, consulte: [https://help.github.com/articles/writing-on-github/](https://help.github.com/articles/writing-on-github/),  [https://help.github.com/articles/markdown-basics/](https://help.github.com/articles/markdown-basics/) e [https://help.github.com/articles/github-flavored-markdown/](https://help.github.com/articles/github-flavored-markdown/). Ali encontrará as principais tags para formatação de GitPages em formato MD.
 
+</br></br>
 ## Avaliação
 Cada um dos artigos terá peso 10, contudo cada artigo é avaliado de forma diferente. Veja:
 
@@ -55,6 +59,7 @@ No artigo de CSS3 o acadêmico(a) deverá apresentar até 10 funcionalidades, se
 - Como usar: (20%)
 - Exemplo de uso: (50%)
 
+</br>
 #### Artigo de Atomic Design
 No artigo de Atomic Design a nota será proferida da seguinte forma:
 - Resumo (5%)
