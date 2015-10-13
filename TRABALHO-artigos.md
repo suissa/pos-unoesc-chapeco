@@ -1,7 +1,4 @@
 
-# Pós em Desenvolvimento Web, Cloud e dispositivos Móveis
-## Disciplina: HTML5 + CSS3
-
 # Trabalho confecção de Artigos de Revisão
 
 ### Introdução
