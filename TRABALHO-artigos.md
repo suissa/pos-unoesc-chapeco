@@ -58,4 +58,11 @@ fonte: [http://www.maujor.com/tutorial/interativo-css3/inc/borderradius.php](htt
 
 ## Atomic Design
 
+No trabalho sobre Atomic Design você deverá explicar:
+
+- O que é? (20%)
+- Como funciona? (10%)
+- Para que usar (10%)
+- Onde usar? (10%)
+- 1 Exemplo de cada etapa. (5 etapas x 10%)
 
