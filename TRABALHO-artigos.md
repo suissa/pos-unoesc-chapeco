@@ -20,7 +20,7 @@ Inicialmente vale lembrar que um Artigo de Revisão, não é um artigo científi
   - Titulo do email: <b>[WebMob Unoesc Chapecó] Artigos</b>
   - Corpo do email: colar as urls do github onde está publicado cada um dos seus artigos</br>
 
-4) O prazo final para envio dos artigos é o 99/99/9999 até as 99:99h
+4) O prazo final para envio do email com as urls dos artigos é o 22/10/2015 até as 23:59h
 
 #### Tarefa do artigo de CSS3
 Seu artigo de revisão deverá abordar 10 funcionalidades de CSS3 que mais usa, que pesquisou, ou que achou interessante. Sobre cada uma dessas 10 funcionalidades, deverá apresentar o seguinte:
@@ -53,7 +53,7 @@ O artigo de revisão de Atomic Design deverá ser constituído das seguintes par
 Cada um dos artigos terá peso 10, contudo cada artigo é avaliado de forma diferente. Veja:
 
 #### Artigo de CSS3
-No artigo de CSS3 o acadêmico(a) deverá apresentar até 10 funcionalidades, sendo que cada funcionalidade apresentada porderá valer até 1 ponto. Ao final será somado a avaliação de todas as funcionalidades e obtida a nota. Cada funcionalidade será avaliada da forma:
+No artigo de CSS3 o acadêmico(a) deverá apresentar até 10 funcionalidades, sendo que cada funcionalidade apresentada porderá valer até 1 ponto. Ao final será somado a avaliação de todas as funcionalidades e obtida a nota. Cada funcionalidade será avaliada assim:
 - O que é? (20%)
 - Onde usar: (10%)
 - Como usar: (20%)
@@ -106,8 +106,8 @@ seletor {
 <repetir para as demais funcionalidades>
 
 ------ FIM do artigo ------
-
-### Exemplo Artigo de Atomic Design
+</br></br></br>
+## Exemplo Artigo de Atomic Design
 ------ INICIO do artigo ------ 
 ## Atomic Design
 Jean Carlos Hennrichs (Unoesc Chapecó)</br>
